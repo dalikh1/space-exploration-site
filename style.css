@@ -12,3 +12,6 @@ body{
   border: none;
   font-family: 'Orbitron', sans-serif;
 }
+.target{
+    border-bottom:4px solid white ;
+}
